@@ -11,22 +11,23 @@ In addition to the main end‑to‑end projects, I completed several smaller pro
 
 2. **Dino Polska S.A. – Financial Analysis (Power BI)**  
   Analyzed financial statements and key performance indicators of Dino Polska S.A. using Power BI, including trend and ratio analysis.
-<img width="500" height="500" alt="Zrzut ekranu 2025-07-23 171824" src="https://github.com/user-attachments/assets/63d50d2f-dc20-4dd6-a44c-dc5621acb855" />
-<img width="500" height="500" alt="Zrzut ekranu 2025-07-23 171854" src="https://github.com/user-attachments/assets/75002c4d-d1e0-45ad-ae9c-897f1b90a197" />
-<img width="500" height="500" alt="Zrzut ekranu 2025-07-23 171914" src="https://github.com/user-attachments/assets/5df54f3e-7b92-4b98-a15d-0181661ae767" />
-<img width="500" height="500" alt="Zrzut ekranu 2025-07-23 171927" src="https://github.com/user-attachments/assets/05cae89a-c8f5-4624-bd41-5c773d78fb68" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121745" src="https://github.com/user-attachments/assets/c283204c-9868-44d8-a490-7849e646d0c2" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121727" src="https://github.com/user-attachments/assets/c99ed32e-1378-4774-815a-6cdc8341d47c" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121714" src="https://github.com/user-attachments/assets/bddf31ee-0f9d-4efa-a26e-57e62d16d39d" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121701" src="https://github.com/user-attachments/assets/834d086c-1662-4316-9ba7-df976050c35e" />
+
 
 3. **E‑Bike Sales Analysis & Recommendations (SQL)**  
   Performed exploratory analysis of e‑bike sales data using SQL and prepared business recommendations based on customer and product insights.
 
 4. **Poznań Half Marathon Dashboard (Power BI)**  
   Built an interactive Power BI dashboard analyzing race performance, pace distribution, and trends across distance segments.
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4c4b6a5e-2711-49f7-a8b5-799f8e471475" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121625" src="https://github.com/user-attachments/assets/e10ea9ed-5d8a-4ce5-87c1-ba1e365b7f9c" />
 
 5. **Hearing Wellness Report & Recommendations (Power BI)**  
   Created a Power BI report analyzing hearing wellness data and delivered insights with actionable recommendations.
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/83cec527-0fa7-4329-98fb-55a66bedbdd8" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/09d76954-fd69-438f-9cbb-6cc7308af7ee" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121548" src="https://github.com/user-attachments/assets/c4ba1db2-b1db-4733-b01e-bd8ca017aa5c" />
+<img width="500" height="500" alt="Zrzut ekranu 2026-03-13 121530" src="https://github.com/user-attachments/assets/167d2e28-4b99-46fc-abdd-d9f495f15ed6" />
 
 6. **Survey Data Cleaning & Visualization (Python)**  
   Cleaned and transformed survey data using Pandas and created visualizations, including an interactive component.
