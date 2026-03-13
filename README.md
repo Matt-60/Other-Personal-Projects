@@ -30,9 +30,10 @@ In addition to the main end‑to‑end projects, I completed several smaller pro
 
 6. **Survey Data Cleaning & Visualization (Python)**  
   Cleaned and transformed survey data using Pandas and created visualizations, including an interactive component.
-<img width="500" height="500" alt="Zrzut ekranu 2025-07-24 194220" src="https://github.com/user-attachments/assets/ac99c0ab-40c6-4164-9ed7-ac1e59c1e5a6" />
-<img width="500" height="500" alt="Zrzut ekranu 2025-07-24 194248" src="https://github.com/user-attachments/assets/185380a2-4449-4e26-a1dc-ebaea9d08c83" />
-<img width="500" height="500" alt="Zrzut ekranu 2025-07-24 194235" src="https://github.com/user-attachments/assets/2e3f455a-a5f2-4fd8-b22f-66c9c25b7bf5" />
+<img width="500" height="500" alt="470450736-ac99c0ab-40c6-4164-9ed7-ac1e59c1e5a6" src="https://github.com/user-attachments/assets/eccaa2ef-8c56-4e7f-86eb-c3e115820d97" />
+<img width="500" height="500" alt="470450750-185380a2-4449-4e26-a1dc-ebaea9d08c83" src="https://github.com/user-attachments/assets/4673813c-e0a2-490c-ac08-992adb927776" />
+<img width="500" height="500" alt="470450743-2e3f455a-a5f2-4fd8-b22f-66c9c25b7bf5" src="https://github.com/user-attachments/assets/e11f740f-9bee-4bda-b1a6-6ecda9518a40" />
+
 
 7. **Weather Data Exploratory Analysis (Python)**  
   Conducted exploratory data analysis on weather data using Python, focusing on trends, distributions, and correlations.
